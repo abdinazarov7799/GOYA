@@ -8,5 +8,17 @@
     color: #B9A16B;
 }
 #hero .carousel-caption{
-    top: 40%;
+    top: 50%;
+    right: 0;
+    transform: translate(0, -50%);
+}
+.carousel-indicators [data-bs-target]{
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background-color: #aaaaaa;
+}
+.carousel-indicators .active{
+    background-color: #B9A16B;
+    opacity: 100%;
 }
