@@ -1,0 +1,12 @@
+.goya-black{
+    color: #252525;
+}
+.goya-yellow{
+    color: #B9A16B;
+}
+.goya-yellow:hover{
+    color: #B9A16B;
+}
+#hero .carousel-caption{
+    top: 40%;
+}
